@@ -1,0 +1,6 @@
+1.subarray---n(n+1)/2 subarray in a array-its a contigous part of an array
+{1,2,3}--sub--{1},{1,2},{1,2,3},{2},{2,3},{3}
+2.subsequences---2^n picking of an element from an array should be in same order when placing
+3.character array has n+1 size +1 for null character '/0'
+
+
