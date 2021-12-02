@@ -1,0 +1,21 @@
+****decimal to binary*****
+ex lets take 5;
+now write down 2^powers -- 128,64,32,8,4,2,1
+now for 5 nearest minimum number is 4 so note down 1 now we cant add 2 so note down 0 now we can add 1 so note down 1.
+hence 5--101.
+
+another ex lets take 12;
+nearest-8-notedown-1
+add 4 notedown 1 
+cant add more for 2,1 so notedown 0 0
+hence 12--1100
+
+
+*******binary to decimal*****binary
+ex lets take 101
+now write it as (101)2
+now 1x2^2+0X2^1+1x2^0=4+0+1=5 ans;
+
+another ex lets take 1100
+now write it as (1100)2
+now 1x2^3+1x2^2+0X2^1+0X2^0=8+4+0+0=12;
